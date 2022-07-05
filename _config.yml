@@ -14,19 +14,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Viktor Stubbfält
-email: viktor@stubbfalt.com
+email: viktor.stubbfalt@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello and welcome to my personal site! As you may see, much is still under
   construction. In the future this site will be used as my personal portfolio
-  to share interesting projects I have worked on.
+  to share interesting projects I have worked on. Enjoy your stay ❤️
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://stubbfalt.com
+url: "http://stubbfalt.com" # the base hostname & protocol for your site, e.g. http://stubbfalt.com
 twitter_username: StoicAurora
 github_username:  StoicAurora
+instagram_username: viktorstubb
 
 # Build settings
 markdown: kramdown
 theme: minima
+skin: dark
 plugins:
   - jekyll-feed
 
