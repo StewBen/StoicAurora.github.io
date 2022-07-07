@@ -19,7 +19,7 @@ minimal_mistakes_skin: dark
 locale: "en"
 title: Viktor Stubbfält
 title_separator: "-"
-subtitle: "Version 1.0"
+subtitle: "Digital apps, analog photos."
 name: "Viktor Stubbfält"
 description: >- # this means to ignore newlines until "baseurl:"
   Hello and welcome to my personal site! As you may see, much is still under
@@ -30,7 +30,10 @@ url: "https://stubbfalt.com/"
 repository: "StoicAurora/StoicAurora.github.io"
 #head_scripts:
 #teaser:
-#logo: "/assets/images/masthead-logo.png"
+logo: "/assets/images/logo2.png"
+#masthead_title: "My Custom Title"
+#breadcrumbs: true  # disabled by default
+date_format: "%Y-%m-%d"
 email: viktor@stubbfalt.com
 twitter_username: StoicAurora
 github_username: StoicAurora
@@ -109,6 +112,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      show_date: true
       comments: true
       share: true
       related: true
