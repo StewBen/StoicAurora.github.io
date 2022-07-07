@@ -95,17 +95,19 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/viktorstubb"
 
+atom_feed:
+  hide: true
 footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/StoicAurora"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/StoicAurora"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/viktorstubb"
+  # links:
+  #   - label: "Twitter"
+  #     icon: "fab fa-fw fa-twitter-square"
+  #     url: "https://twitter.com/StoicAurora"
+  #   - label: "GitHub"
+  #     icon: "fab fa-fw fa-github"
+  #     url: "https://github.com/StoicAurora"
+  #   - label: "Instagram"
+  #     icon: "fab fa-fw fa-instagram"
+  #     url: "https://instagram.com/viktorstubb"
 
 defaults:
   # _posts
