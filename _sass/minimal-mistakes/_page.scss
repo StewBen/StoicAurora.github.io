@@ -224,11 +224,11 @@ body {
     }
 
     .page__lead {
-      max-width: $medium;
+      max-width: $x-large;
     }
 
     .page__title {
-      font-size: $type-size-2;
+      font-size: $type-size-1;
 
       @include breakpoint($small) {
         font-size: $type-size-1;
