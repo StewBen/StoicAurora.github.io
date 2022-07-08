@@ -80,6 +80,10 @@ body {
   & + .page__meta {
     margin-top: -0.5em;
   }
+  .btn {
+    color: #fff;
+    text-shadow: 30px 30px 40px rgba(#000, 1);
+  }
 }
 
 .page__lead {
