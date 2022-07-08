@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "<br/><br/><br/><br/><br/><br/><br/>Hi. <br/>I'm a **Photographer**."
+title: "<br/><br/><br/><br/><br/><br/><br/>Hello. <br/>I'm a **Photographer**."
 tagline: "*(I took this photo)*"
 author_profile: true
 header:
@@ -19,7 +19,7 @@ feature_row2:
   - image_path: /assets/images/portfolio.jpg
     alt: "placeholder image 2"
     title: "Portfolio"
-    excerpt: 'My personal CV coupled with case studies from the projects that I am the most proud about being a part of.'
+    excerpt: 'My personal CV and a list of past projects. coupled with a list of case studies that feature in depth looks into some of my best work'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -45,6 +45,7 @@ In practice that means I can both:
 
 If you think that sounds interesting - you've come to the right place.
 Here on my personal site you will find: 
+* * *
 
 <!-- ## About me
 
@@ -57,8 +58,8 @@ My personal CV coupled with case studies from the projects that I am the most pr
 ## Personal blog
 My own little corner of the World (Wide Web) where I get to write about whatever is on my mind. Often featuring curated picks of my very best photos along with the stories behind them. -->
 
-{% include feature_row id="feature_row1" type="right" %}
+{% include feature_row id="feature_row1" type="left" %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="feature_row3" type="left" %}
