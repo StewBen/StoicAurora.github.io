@@ -12,7 +12,7 @@ feature_row1:
     alt: "placeholder image 2"
     title: "About me"
     excerpt: 'Who I am, what I do, and how to get in touch with me.'
-    url: "#test-link"
+    url: /about/
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
@@ -28,7 +28,7 @@ feature_row3:
     alt: "placeholder image 2"
     title: "Personal blog"
     excerpt: 'My own little corner of the World (Wide Web) where I get to write about whatever is on my mind. Often featuring curated picks of my very best photos along with the stories behind them.'
-    url: "#test-link"
+    url: /posts/
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
