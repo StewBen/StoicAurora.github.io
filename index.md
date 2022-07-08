@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>Hi, I'm Viktor.<br/>An IT-Engineer with a Photographer's eye."
-tagline: "That means being able to develop entire projects on my own while making them look good too. The website in front of you is a good example.<br/><br/>***Interested? Scroll down.***<br/><br/><br/><br/>"
+title: "<br/><br/><br/><br/><br/><br/>Hi, I'm Viktor.<br/>An IT-Engineer with a Photographer's eye."
+tagline: "That means being able to develop entire projects on my own while making them look good too. The website in front of you is a good example.<br/><br/>***Interested? Scroll down.***"
 author_profile: false
 header:
   overlay_image: /assets/images/banner.jpg
