@@ -22,7 +22,7 @@ And here is another photo:
 And just for fun, and even though it definitely isn't astrophotography, here's an incredibly sharp photo of a duck that I took a few years ago:
 
 <figure>
-  <img src="/assets/images/duck.jpg">
+  <img src="/assets/images/duck.JPG">
 </figure>
 
 Quack.
