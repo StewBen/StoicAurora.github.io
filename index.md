@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "<br/><br/><br/><br/><br/><br/><br/>Hi, I'm Viktor.<br/>An IT-Engineer with a Photographer's eye."
+title: "<br/><br/><br/><br/><br/><br/><br/>Hi, I'm Viktor. <br/>An IT-Engineer with a Photographer's eye."
 tagline: "That means being able to develop entire projects on my own while making them look good too. The website in front of you is a good example.<br/><br/>***Interested? Scroll down.***"
 author_profile: false
 header:
@@ -25,7 +25,7 @@ feature_row:
   - image_path: /assets/images/blog.jpg
     alt: "placeholder image 2"
     title: "Personal blog"
-    excerpt: 'My little corner of the World (Wide Web) where I get to post photos and write about whatever is on my mind.' #Often featuring curated picks of my very best photos along with the stories behind them.'
+    excerpt: 'My little corner of the World (Wide Web). Here I post my photos and write about whatever is on my mind.' #Often featuring curated picks of my very best photos along with the stories behind them.'
     url: /posts/
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -47,4 +47,3 @@ My personal CV coupled with case studies from the projects that I am the most pr
 My own little corner of the World (Wide Web) where I get to write about whatever is on my mind. Often featuring curated picks of my very best photos along with the stories behind them. -->
 
 {% include feature_row %}
-

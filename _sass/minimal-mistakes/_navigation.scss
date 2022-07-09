@@ -181,6 +181,7 @@
 
   a {
     display: block;
+    font-family: $monospace;  
     margin: 0 1rem;
     color: $masthead-link-color;
     text-decoration: none;
@@ -315,7 +316,7 @@
 
     li {
       display: block;
-      border-bottom: 1px solid $border-color;
+      border-bottom: 0px solid $border-color;
 
       &:last-child {
         border-bottom: none;
@@ -483,7 +484,7 @@
 .nav__title {
   margin: 0;
   padding: 0.5rem 0.75rem;
-  font-family: $sans-serif-narrow;
+  font-family: $monospace;
   font-size: $type-size-5;
   font-weight: bold;
 }
