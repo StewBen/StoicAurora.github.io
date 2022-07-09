@@ -1,14 +1,14 @@
 ---
 layout: splash
 title: "<br/><br/><br/><br/><br/><br/><br/>Hi, I'm Viktor. <br/>An IT-Engineer with a Photographer's eye."
-tagline: "That means being able to develop entire projects on my own while making them look good too. The website in front of you is a good example.<br/><br/>***Interested? Scroll down.***"
+tagline: "That means I am able to develop entire projects on my own while making them look good too. The website in front of you is a good example.<br/><br/>***Interested? Scroll down.***"
 author_profile: false
 header:
   overlay_image: /assets/images/splash.jpg
 classes: wide
 
 feature_row:
-  - image_path: /assets/images/about.jpg
+  - image_path: /assets/images/about2.jpg
     alt: "placeholder image 2"
     title: "About me"
     excerpt: 'Get to know the guy who''s name is in the URL. Learn my background, what I''m up to now and how to contact me.'
