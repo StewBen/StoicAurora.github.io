@@ -4,25 +4,25 @@ title: "<br/><br/><br/><br/><br/><br/><br/>Hi, I'm Viktor.<br/>An IT-Engineer wi
 tagline: "That means being able to develop entire projects on my own while making them look good too. The website in front of you is a good example.<br/><br/>***Interested? Scroll down.***"
 author_profile: false
 header:
-  overlay_image: /assets/images/banner.jpg
+  overlay_image: /assets/images/splash.jpg
 classes: wide
 
 feature_row:
-  - image_path: /assets/images/about1.jpg
+  - image_path: /assets/images/about.jpg
     alt: "placeholder image 2"
     title: "About me"
     excerpt: 'Get to know the guy who''s name is in the URL. Learn my background, what I''m up to now and how to contact me.'
     url: /about/
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/portfolio2.jpg
+  - image_path: /assets/images/portfolio.jpg
     alt: "placeholder image 2"
     title: "Portfolio"
     excerpt: 'Like a fancier GitHub profile. Read my CV together with case studies that covers my best work over the years.'
     url: /portfolio/
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/blog2.jpg
+  - image_path: /assets/images/blog.jpg
     alt: "placeholder image 2"
     title: "Personal blog"
     excerpt: 'My little corner of the World (Wide Web) where I get to post photos and write about whatever is on my mind.' #Often featuring curated picks of my very best photos along with the stories behind them.'
