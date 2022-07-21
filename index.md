@@ -46,7 +46,7 @@ feature_row:
 # <br/>About me
 {: #myid1}
 
-Hailing from the very north of Sweden, I am a 21 year old IT-Engineering student at Uppsala university. My early career ambitions had a clear focus towards the natural sciences with astronomy in particular. However, my ambitions began to shift after coding my first game at age 14. Suddenly I got to use an brand new type of creativity when problem solving - I was instantly hooked. 
+Hailing from the very north of Sweden, I am a 21 year old IT-Engineering student at Uppsala university. My early career ambitions had a clear focus towards the natural sciences with astronomy in particular. However, my ambitions began to shift after coding my first game at age 14. Suddenly I got to use a brand new type of creativity when problem solving - I was instantly hooked. 
 
 <!-- After graduation I dream of a position where I ideally get to combine both my interest for space and programming, similar to an intership I had at a satelite manufacturer. -->
 
