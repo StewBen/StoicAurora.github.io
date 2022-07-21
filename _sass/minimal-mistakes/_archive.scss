@@ -87,7 +87,7 @@
 
 .archive__item-teaser {
   position: relative;
-  border-radius: 10px;
+  border-radius: $border-radius;
   overflow: hidden;
 
   img {
@@ -252,7 +252,7 @@
 .feature__item {
   position: relative;
   margin-bottom: 0em;
-  margin-top: 2em;
+  margin-top: 0em;
   font-size: 1.125em;
 
   @include breakpoint($small) {

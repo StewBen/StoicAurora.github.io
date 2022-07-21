@@ -9,7 +9,7 @@
   margin-right: 0;
   width: 100%;
   margin-top: 0em;
-  color: $muted-text-color;
+  color: $text-color;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   -webkit-animation-delay: 0.45s;
@@ -49,7 +49,7 @@
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
-  color: #000
+  color: $text-color;
 }
 
 .page__footer-follow {

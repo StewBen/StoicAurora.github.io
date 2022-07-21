@@ -5,6 +5,7 @@ categories:
 tags:
   - Photos
 ---
+
 Here's a sample blog post with some of my astrophotos to demonstrate functionality.
 
 <figure>

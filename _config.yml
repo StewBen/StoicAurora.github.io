@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: contrast
+minimal_mistakes_skin: gruvbox
 locale: "en"
 title: Viktor Stubbfält
 title_separator: "-"
@@ -75,7 +75,7 @@ plugins:
 
 author:
   name   : "Viktor Stubbfält"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/pfp.png"
   bio    : "IT-engineering student at Uppsala University and (astro)photographer from the land of the midnight sun."
   location: "Uppsala, Sweden"
   links:
@@ -98,16 +98,19 @@ author:
 atom_feed:
   hide: true
 footer:
-  # links:
-  #   - label: "Twitter"
-  #     icon: "fab fa-fw fa-twitter-square"
-  #     url: "https://twitter.com/StoicAurora"
-  #   - label: "GitHub"
-  #     icon: "fab fa-fw fa-github"
-  #     url: "https://github.com/StoicAurora"
-  #   - label: "Instagram"
-  #     icon: "fab fa-fw fa-instagram"
-  #     url: "https://instagram.com/viktorstubb"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/StoicAurora"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/viktorstubb/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/StoicAurora"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/viktorstubb"
 
 defaults:
   # _posts
