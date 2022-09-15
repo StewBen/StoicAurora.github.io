@@ -3,11 +3,11 @@ main:
   #   url: /categories/
   # - title: "Tags"
   #   url: /tags/
+  - title: "About"
+    url: /about/
   - title: "Portfolio"
     url: /portfolio/
-  - title: "Blog"
-    url: /posts/
   - title: "Gallery"
     url: https://vsco.co/viktorstubb/gallery
-  - title: "About"
-    url: /#myid1
+  - title: "Blog"
+    url: /posts/

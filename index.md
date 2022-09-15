@@ -1,11 +1,11 @@
 ---
-layout: splash
-title: "<br/><br/><br/><br/><br/><br/><br/><br/><br/>Hi, I'm Viktor. <br/>An IT-Engineer with a Photographer's eye."
-tagline: "In other words: I develop full-stack projects while making them look good too. Take this website in front of you as an example.<br/><br/>***Interested? Scroll down.***"
-author_profile: false
-header:
-  overlay_image: /assets/images/splash2.png
-classes: wide
+layout: single
+
+#tagline: "In other words: I develop full-stack projects while making them look good too. Take this website in front of you as an example.<br/><br/>***Interested? Scroll down.***"
+author_profile: true
+# header:
+#   image: /assets/images/splash.jpg
+#classes: wide
 
 feature_row:
   # - image_path: /assets/images/about.png
@@ -38,21 +38,28 @@ feature_row:
     btn_class: "btn--primary"
 ---
 {::options auto_ids="false" /}
-<hr />
-<figure style="width: 540px; padding-top: 11px; padding-left: 10px" class="align-right">
-  <img src="/assets/images/about.png">
-</figure>
 
-# <br/>About me
-{: #myid1}
+<!-- # <br/>Hi, I'm Viktor. An IT-Engineer with a Photographer's eye. -->
+# Hi, I'm Viktor. 
+Welcome to my little corner of the World (Wide Web).<br/>On here you will find:
 
-Hailing from the very north of Sweden, I am a 21 year old IT-Engineering student at Uppsala university. My early career ambitions had a clear focus towards the natural sciences with astronomy in particular. However, my ambitions began to shift after coding my first game at age 14. Suddenly I got to use a brand new type of creativity when problem solving - I was instantly hooked. 
+* **About:**
+Get to know the guy who's name is in the URL. Learn my background and what I'm up to now.
 
-<!-- After graduation I dream of a position where I ideally get to combine both my interest for space and programming, similar to an intership I had at a satelite manufacturer. -->
+* **Portfolio:**
+Like a fancier GitHub profile. Read my CV together with case studies from my best work over the years.
 
-Nowadays, when I'm not studying, I spend my free time developing personal projects (like this site), volunteering for the Swedish Astronomical Youth Association and exploring different kinds of photography (analog film and astrophotograpy are personal favorites).
+* **Gallery:**
+Curated picks of my photos and snapshots from everyday life. Hosted in a clean, minimal style on VSCO.
 
-Feel free to contact me at: viktor@stubbfalt.com<br/><br/><br/>
-<hr /><br/>
+* **Blog:**
+Here I write about my work on current projects or whatever else is on my mind.
 
-{% include feature_row %}<br/>
+<!-- Hailing from the very north of Sweden, I'm a 21 year old IT-Engineering student at Uppsala university. At age 14, I programmed my first game and got to combine both my creativity together with a passion for problem solving - *I was instantly hooked*.  -->
+
+<!-- My early career ambitions had a clear focus towards the natural sciences with astronomy in particular.After graduation I dream of a position where I ideally get to combine both my interest for space and programming, similar to an intership I had at a satelite manufacturer. -->
+
+<!-- **Nowadays:**<br/> -->
+<!-- When I'm not studying, I now spend my free time developing personal projects such as this site, volunteering for the Swedish Astronomical Youth Association and exploring different kinds of photography (analog film and astrophotograpy are personal favorites). -->
+
+<!-- {% include feature_row %}<br/> -->

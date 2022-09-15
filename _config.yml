@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: gruvbox
+minimal_mistakes_skin: contrast
 locale: "en"
 title: Viktor Stubbfält
 title_separator: "-"
@@ -31,14 +31,14 @@ repository: "StoicAurora/StoicAurora.github.io"
 #head_scripts:
 #teaser:
 logo: "/assets/images/logo.png"
-masthead_title: "Viktor Stubbfält"
+masthead_title: " "
 #breadcrumbs: true  # disabled by default
 date_format: "%Y-%m-%d"
 email: viktor@stubbfalt.com
 twitter_username: StoicAurora
 github_username: StoicAurora
 
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -82,6 +82,9 @@ author:
     # - label: "Website (that's here!)"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://stubbfalt.com"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:viktor@stubbfalt.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/StoicAurora"
@@ -97,20 +100,20 @@ author:
 
 atom_feed:
   hide: true
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/StoicAurora"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/viktorstubb/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/StoicAurora"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/viktorstubb"
+# footer:
+#   links:
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/StoicAurora"
+#     - label: "LinkedIn"
+#       icon: "fab fa-fw fa-linkedin"
+#       url: "https://www.linkedin.com/in/viktorstubb/"
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com/StoicAurora"
+#     - label: "Instagram"
+#       icon: "fab fa-fw fa-instagram"
+#       url: "https://instagram.com/viktorstubb"
 
 defaults:
   # _posts
