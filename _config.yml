@@ -76,7 +76,7 @@ plugins:
 author:
   name   : "Viktor Stubbfält"
   avatar : "/assets/images/pfp.png"
-  bio    : "IT-engineering student at Uppsala University and (astro)photographer from the land of the midnight sun."
+  bio    : "IT-Engineering student at Uppsala University and (astro)photographer from the land of the midnight sun."
   location: "Uppsala, Sweden"
   links:
     # - label: "Website (that's here!)"
