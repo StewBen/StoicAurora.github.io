@@ -8,8 +8,8 @@ classes: wide
 
 
 
-<figure style="width: 475px; padding-top: 45px; padding-left: 10px" class="align-right">
-  <img src="/assets/images/about.png">
+<figure style="width: 500px; padding-top: 45px; padding-left: 30px; padding-right: 30px" class="align-right">
+  <img src="/assets/images/about4.jpg">
 </figure>
 
 # <br/>About me
