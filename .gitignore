@@ -1,6 +1,0 @@
-_site
-_config copy.yml
-.sass-cache
-.jekyll-metadata
-Gemfile.lock
-_examples
