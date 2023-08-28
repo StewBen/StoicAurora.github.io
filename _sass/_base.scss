@@ -1,5 +1,5 @@
 body {
-  font-family: "hack", monospace;
+  font-family: "jetbrains mono", monospace;
   font-size: 16px;
   font-weight: 400;
   background-color: #1D2021;
@@ -20,8 +20,8 @@ main {
   }
 
   @media (min-width: 768px) {
-    font-size: 18px;
-    width: 60%
+    font-size: 20px;
+    width: 60%;
   }
 }
 
@@ -30,8 +30,8 @@ p {
 }
 
 a {
-  color: inherit;
   font-style: italic;
+  color: #689D6A;
 
   &:hover,
   &:active {
