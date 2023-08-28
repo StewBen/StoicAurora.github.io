@@ -1,0 +1,45 @@
+# this is only for search engines, it does not appear in the home
+# as long as the json variables name and description are provided
+title: Viktor Stubbfält
+description: IT-Engineering student at Uppsala University and (astro)photographer from the land of the midnight sun.
+baseurl: ""
+url: https://hacked-jekyll.netlify.app
+
+# this information is shown on the homepage, all fields are optional and
+# can be declared either as a single string or as a string array/hash
+json:
+  name: Viktor Stubbfält
+  description:
+    - Hi, I'm Viktor.
+    - Welcome to my little corner of the World (Wide Web)
+    - I like to keep things minimal.
+  cv: assets/cv.pdf
+  address:
+    - Kantorsgatan 26
+    - 754 24 Uppsala
+  contact:
+    phone: +46 732 63 64 20
+    email: viktor@stubbfalt.com
+  source: https://github.com/StoicAurora/StoicAurora.github.io
+  profiles:
+    instagram: https://instagram.com/viktorstubb
+    linkedin: https://www.linkedin.com/in/viktorstubb
+    twitter: https://twitter.com/StoicAurora
+    github: https://github.com/StoicAurora
+    vsco: https://vsco.co/viktorstubb/gallery
+
+exclude:
+  - LICENSE
+  - README.md
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+whitelist:
+  - jekyll-sitemap
+
+sass:
+  sass_dir: _sass
+  style: compressed
+  sourcemap: never
